@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+
+<html>
+
+
+<head>
+  <title>Amanda's Webpage</title>
+</head>
+<body style="background-color:/fdfd96.png;">
+  <nav>
+      <ul>
+          <li><a href="#whoami">Who Am I</a></li>
+          <li><a href="#interests">My Interests</a></li>
+          <li><a href="#goals">My Goals</a></li>
+          <li><a href="#projects">My Projects</a></li>
+      </ul>
+  </nav>
+  <div id=whoami>
+  <h1 style="font-family:verdana;">Who Am I</h1>
+      <p>Hi there, my name is <strong> Amanda Emily Sanchez</strong>. 
+      My birthday is definitely something people often forget due to it being within the second month of the new year. 
+      I am a millennial, born on Feburary 7th, 2000. 
+      My brother and I are close, and I feel as if that's due to the fact that our parents are divorced. 
+      So even if we are not a happy family of four like we use to be, my brother will alwys know that we have each other. 
+      I was born in Los Angeles, California and have lived here my whole life. 
+      I am currently in my last year of high school at <a
+      href=https://venicehs-lausd-ca.schoolloop.com>Venice High</a>, and have had a great three years there so far.
+      </p>
+  </div>
+  <div id=interests>
+  <h2 style="font-family:verdana;"What are my interest?</h2>
+  <h3>Interests Outside of School</h3>
+      <ul>
+          <li>Working Out</li>
+          <li>Swimming(specifically short distance sprints, 50 meter freestyle, butterfly, and breaststroke)</li>
+          <li>Hiking</li>
+          <li>Performing: dancing, piano, guitar(I really enjoy music)</li>
+          <li>Traveling,Roadtrips(but so far the farest I've ever been from home is Nevada)</li>
+          <li>Hanging Out with Friends</li>
+       </ul>
+   <h3>Interests at School</h3>
+        <ul>
+            <li>Language: French</li>
+            <li>Math</li>
+            <li>Coding</li>
+            <li>Science(specifically Chemistry and Physics)</li>
+            <li>Governament</li>
+        </ul>
+   </div>
+   <div id=goals>
+   <h2 style="font-family:verdana;">What are my goals?</h2>
+   <h3>Current</h3>
+       <ul>
+           <li>Make it to City Finals for swim</li>
+           <li>Become more fluent with my Spanish and French</li>
+           <li>Become more proficient with piano and guitar</li>
+           <li>Become fully licensed by summer 2018</li>
+           <li>Finsih up highschool with straight A's</li>
+           <li>Graduate highschool, enroll at SMC and discover what I'm truly passionate about and save money for further future education</li>
+           <li>Save Money</li>
+        </ul>
+   <h3>Future</h3>
+      <ul>
+          <li>Transfer from SMC to UC</li>
+          <li>Find a career that I am passionate about</li>
+          <li>Continue to have good health</li>
+          <li>Continue to be happy and not have to worry about money</li>
+          <li>Create dream home with my favorite uncle also an architect</li>
+          <li>Become a gym owner and trainer</li>
+          <li>Become trilingual</li>
+          <li>Use less waste, reduce amount of plastic I use</li>
+        </ul>    
+     </div>   
+     <div id=projects>
+     <h2 style="font-family:verdana;">My Projects</h2>
+         <h3>Snap Work</h3>
+         <p>One of the projects I performed was having to create a game on snap, that contained multiple stages/levels.
+         The project was not as hard as I first thought in the beginning, it was just very time consuming because it took me a while to undertsand coding it's self; I was a first timer. But being able to create my own game, with a partner, was fun. Therefore leading my creations to be not as I first planned out.
+         My great outcome of creating this game wasn't just creating the game it's self but the amount of coding I learned along the way, with the help of my classmates who a numerous amount of coding experience.
+         TAKE A LOOK <a
+         href="http://snap.berkeley.edu/snapsource/snap.html#present:levi319&ProjectName=game%20"><em>here</em></a></p>
+         <h3>Cyber Security Work</h3>
+         <p>Another project I had the lovely opportunity to work on with a classmate was, having to create a presentation based off of a situation someone was in dealing with the internet. The goal was to have a presentation that described how the person, of our situation and situation similar, how they can make sure to have clean cyber hygiene and protect their cyber security.
+         TAKE A LOOK <a
+         href="https://docs.google.com/presentation/d/19RssOOlveb3bpOK26s8McPp5j9NkcCjgDzsH_HL-xJ0/edit#slide=id.p"><em>here</em></a></p>
+         <h3>App Inventor Work</h3>
+         <p>The app inventor was the most exciting for me due to the fact this consisted of more coding and changing a real game up, remix. For this project we had to refine another existing game, given to us by app inventor, and make clean it up and polish it into something of our own creation. In my game with my partner, we decided to change up the collect the gold game and changed it to a kid trick or treat for candy. However if the kid ate a piece of candy with a razor in it game over for him. 
+         TAKE A LOOK <a
+         href="http://ai2.appinventor.mit.edu/?locale=en#5179480987140096"><em>here</em></a></p>
+         <h3>Future Projects</h3>
+         <p>I will be looking forward to updating my website with any new projects coming soon.</p>
+         
+  </div>
+  <img src="https://m.popkey.co/d06411/Q89NN_s-200x150.gif"
+  width=400 height=400/>
+</body>
+
+</html>
